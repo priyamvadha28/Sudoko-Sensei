@@ -1,0 +1,8 @@
+Flask==2.3.2
+Flask-CORS==3.0.10
+moviepy==1.0.3
+numpy==1.24.4
+SpeechRecognition==3.8.1
+requests==2.31.0
+opencv-python==4.8.0.76
+pytesseract==0.3.10
